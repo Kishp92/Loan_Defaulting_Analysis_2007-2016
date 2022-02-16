@@ -6,7 +6,9 @@ Analysis of Loan data from 2007-2016 to evaluate probable causes of failure to r
 
 ## Analysis
 
-<a href="https://github.com/Kishp92/Loan_Defaulting_Analysis_2007-2016/blob/aa2d5e9eeb3e04cba305af81d780fa78663363a8/Loan_analysis.ipynb">Jupyter Notebook</a>
+<a href="https://github.com/Kishp92/Loan_Defaulting_Analysis_2007-2016/blob/d3748d37b357c21dd2d71a8308d89fc3f39a2e0c/LOAN%20PROJECTpdf.pdf">Presentation</a>
+
+<a href="https://github.com/Kishp92/Loan_Defaulting_Analysis_2007-2016/blob/aa2d5e9eeb3e04cba305af81d780fa78663363a8/Loan_analysis.ipynb">Codes: Jupyter Notebook</a>
 
 ## Summary
 
